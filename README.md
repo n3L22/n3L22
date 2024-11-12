@@ -1,4 +1,4 @@
-# **👋 Hello, World\! I'm @n3L22 (Antonela)🌍**
+# **👋 Hello, World\! I'm Antonela🌍**
 
 Welcome to my corner of the digital universe\! I'm passionate about **robots**, **AI**, and all things tech-y. I'm here to share my projects, learn new things, and collaborate with like-minded tech enthusiasts.
 
