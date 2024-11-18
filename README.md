@@ -4,7 +4,7 @@ Welcome to my corner of the digital universe\! I'm passionate about **robots**, 
 
 ## **🚀 About Me**
 
-A London-based **AI enthusiast and Machine Learning developer**. I love diving into **machine learning algorithms** and creating solutions that make a difference. With an MSc in **Artificial Intelligence** and experience in **coding education** and **IT support**, I'm always on the lookout for new tech adventures and challenges.
+I love diving into **machine learning algorithms** and creating solutions that make a difference. With an MSc in **Artificial Intelligence** and experience in **coding education** and **IT support**, I'm always on the lookout for new tech adventures and challenges.
 
 ## **🔧 My Skills**
 
